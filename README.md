@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @North524
+- 👀 I’m interested in Law Enforcement, Cybersecurity & IT. 
+- 🌱 I’m currently learning JS, Python, and Lua. 
+- 💞️ I’m looking to collaborate with FiveM Dev Community & Other Devs. 
+- 📫 How to reach me Discord: BxNorth524#3897
